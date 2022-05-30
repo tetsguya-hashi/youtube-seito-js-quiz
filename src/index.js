@@ -18,9 +18,6 @@ const quiz = [
 const quizLength = quiz.length;
 let quizIndex = 0;
 let score = 0;
-// const question = "ゲーム史上最も売れたゲーム機はなに";
-// const answers = ["スーパーファミコン", "PS2", "スイッチ", "DS"];
-// const correct = "DS";
 const $button = document.getElementsByTagName("button");
 const buttonLength = $button.length;
 //クイズの問題文と選択肢を定義
